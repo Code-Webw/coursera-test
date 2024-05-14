@@ -1,0 +1,47 @@
+
+
+footer{
+    background: firebrick;
+    
+}
+section{
+    background: black;
+    color: brown;
+  
+}
+header{
+background: aquamarine;
+}
+
+sub{
+    color: aquamarine;
+    font-size: xx-large;
+}
+  
+
+    h1{
+        color: rgb(63, 42, 141);
+        opacity: 1;
+               background-color: rgb(83, 87, 90) ;
+               margin: 0.;
+            
+    }
+    em{
+        color: rgb(134, 168, 12);
+        font-size: large;
+    
+    }
+    body{
+        background-color:rgb(51, 50, 50);
+         margin: 0;
+        padding: 0;
+    }
+
+        p1{color: rgb(255, 255, 255);
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+       
+    }
+button{
+    border: none;
+    color: rgb(141, 29, 48);
+}
